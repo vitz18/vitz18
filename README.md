@@ -25,7 +25,7 @@ I have started learning front-end technologies.
 
 * 🌍  I'm based in India
 * 🧠  I'm learning JavaScript
-* ⚡  I'm a lazy fellow and the goal of 2024 is to build online presence and learn technologies.
+* ⚡  I'm a lazy fellow, and my goal of 2024 is to learn various technologies and build an online presence.
 
 <a href="https://www.github.com/vitz18" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/vitz18?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/vitz_here" target="_blank" rel="noreferrer"><img
